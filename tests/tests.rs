@@ -74,7 +74,7 @@ mod test_cut;
 mod test_date;
 
 #[cfg(feature = "dd")]
-#[path = "by-util/test_dd.rs"]
+#[path = "by-util/test_dd_philip.rs"]
 mod test_dd;
 
 #[cfg(feature = "df")]
